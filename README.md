@@ -11,6 +11,8 @@ A centrepiece of our work is the design of customized printed circuit board (PCB
 
 To support this experimental framework, our device control programs were initially developed in LabVIEW-2015, leveraging its robust capabilities for instrumentation control and data acquisition. However, as our experiments have evolved, we now favour Python for automation and experiment management. Python's flexibility, extensive libraries, and ease of integration with modern hardware have enabled us to streamline our workflows and enhance the customization of our experimental setups.
 
+Our efforts in stress-impedance measurements have been particularly recognized, earning us an award from the Zwick/Roell company during their international competition: https://www.zwickroell.com/news-events/news/academia-day-2019/#:~:text=world%2Dclass%20institutions.-,Winners%20of%20the%202018%20ZwickRoell%20Science%20Award,properties%20of%20miniaturized%20metal%20specimen. This accolade underscores the innovation and precision of our techniques in studying the complex interplay between mechanical stress and electromagnetic properties.
+
 KEY CONTRIBUTIONS
 
   Broadband Measurement Technique: Establishes a method for accurate impedance measurements up to 15 GHz, crucial for analyzing microwire-based composites.
