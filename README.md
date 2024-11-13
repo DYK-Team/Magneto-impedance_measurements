@@ -9,6 +9,8 @@ This project explores the critical role of surface impedance in ferromagnetic wi
 
 A centrepiece of our work is the design of customized printed circuit board (PCB) cells, optimized to simplify and enhance measurement accuracy. These PCB cells are coupled with a multi-stage calibration process, which ensures that our data is both reliable and adaptable to a range of experimental conditions. This level of precision and flexibility allows for the exploration of surface impedance under external stimuli, such as magnetic field, mechanical stress, or temperature. Our approach not only simplifies the characterization process but also provides a versatile framework for tailoring ferromagnetic microwires to specific applications, from high-performance sensors to innovative metamaterials.
 
+To support this experimental framework, our device control programs were initially developed in LabVIEW-2015, leveraging its robust capabilities for instrumentation control and data acquisition. However, as our experiments have evolved, we now favour Python for automation and experiment management. Python's flexibility, extensive libraries, and ease of integration with modern hardware have enabled us to streamline our workflows and enhance the customization of our experimental setups.
+
 KEY CONTRIBUTIONS
 
   Broadband Measurement Technique: Establishes a method for accurate impedance measurements up to 15 GHz, crucial for analyzing microwire-based composites.
