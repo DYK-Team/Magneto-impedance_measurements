@@ -1,0 +1,7 @@
+Questionable use of curly braces in ""{nc}""
+    Error: undefined symbol in: "[nc]"
+Questionable use of curly braces in ""{void}""
+    Error: undefined symbol in: "[void]"
+Circuit: (PCB SOLT_SCC
+
+Fatal Error: Unknown SPICE device type "(" in "(parser"

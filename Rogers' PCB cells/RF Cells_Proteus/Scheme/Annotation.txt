@@ -1,0 +1,8 @@
+Dogbone20
+Material:RO4003C
+Thickness: 0.8mm
+Layers: Top copper, bottom copper, top silk
+Mech3 layer repeats the board edge.
+
+Sensing Materials Technology Ltd
+contact@sensmattech.co.uk
