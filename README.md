@@ -3,6 +3,8 @@ Measuring magneto-impedance in ferromagnetic wires subjected to external stimuli
 
 See the report in the file "Report_Multi-stage calibration for impedance measurements.pdf". 
 
+Main publication: Azim Uddin et al 2023 Meas. Sci. Technol. 34 085001; https://iopscience.iop.org/article/10.1088/1361-6501/accd09
+
 SUMMARY
 
 This project explores the critical role of surface impedance in ferromagnetic wires, advancing the development of materials with highly specialized microwave properties for applications in sensors, metamaterials, and other high-frequency technologies. Ferromagnetic microwires exhibit unique magnetic anisotropy and conductive behaviours, which influence their interaction with electromagnetic fields, making their precise characterization essential for practical implementation in advanced systems. To address this need, we have developed a broadband impedance measurement technique capable of operating up to 15 GHz, offering a streamlined and accurate approach for analysing the electromagnetic properties of these materials. This method provides valuable insights into how ferromagnetic microwires respond under various frequencies, bridging the gap between material science and real-world applications.
